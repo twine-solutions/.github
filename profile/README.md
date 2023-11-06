@@ -3,8 +3,6 @@
 
 ---------------------------------------
 
-<br>
-
 <br/>
 <div align="center">
   <a href="https://github.com/twine-solutions/.github">
@@ -22,8 +20,6 @@
     <a href="https://github.com/twine-solutions/.github/issues">Request Feature</a>
   </p>
 </div>
-
-<br>
 
 ---------------------------------------
 
