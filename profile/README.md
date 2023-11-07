@@ -18,6 +18,8 @@
     <a href="https://github.com/twine-solutions/.github/issues">Report Bug</a>
     ·
     <a href="https://github.com/twine-solutions/.github/issues">Request Feature</a>
+        ·
+    <a href="https://explosives.t.me">Contact</a>
   </p>
 </div>
 
