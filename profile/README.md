@@ -12,7 +12,7 @@
   <h2 align="center">Twine Solutions</h3>
 
   <p align="center">
-    Coming soon.
+    Company based on networking programs/services.
     <br />
     <br />
     <a href="https://github.com/twine-solutions/.github/issues">Report Bug</a>
